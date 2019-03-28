@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      "Inventory Manager: My CLI Project"
+title:      "The Local Coffeeshop: My Sinatra Project"
 date:       2019-01-08 11:59:10 -0500
-permalink:  cli_blog_post
+permalink:  sinatra_project_blog_post
 ---
 
 Have you ever wanted to visit a coffeeshop, but you are not sure if it is any good? Or maybe you are not sure what to order, unsure of which drink is most popular? Well, with The Local Coffeeshop web app, you don’t have to worry about those questions anymore. The Local Coffeeshop will show coffeeshops in your area, and will allow you to look at the average rating on them, the reviews posted by other users, what drinks are popular and allow you to write a review based on your very own visit there. You can also keep track of your favorite coffeeshops, and look at, revise, or delete your reviews. So what are you waiting for? Sign up today!
