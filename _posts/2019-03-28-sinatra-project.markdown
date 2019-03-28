@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Local Coffeeshop: My Sinatra Project"
-date:       2019-01-08 11:59:10 -0500
+date:       2019-03-28 5:47:10 -0500
 permalink:  sinatra_project_blog_post
 ---
 
