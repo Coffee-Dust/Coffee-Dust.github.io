@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coffee-Beans: My Rails Project"
-date:       2021-02-017 11:59:10 -0500
+date:       2021-02-17 11:59:10 -0500
 permalink:  rails_project_blog_post
 ---
 
